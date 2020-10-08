@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=datadog_integration
+POSTGRES_USER=eklzTTzJFdwNGOLthaBhyvHtBFPTVuJu
+POSTGRES_PASSWORD=R0TBLJQzIitACd3BU7aio4Ht10v2EHXijsxUzRzxrQhp5jWy88a7oZlDYxkZ6geT
